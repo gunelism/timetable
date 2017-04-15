@@ -1,0 +1,44 @@
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
+.container{
+  background-color: lightgrey;
+  min-height: 1000px;
+}
+ul{
+  height: 40px;
+  border-bottom: 1px solid black; 
+
+}
+ul li{
+  list-style: none;
+  float: left;
+  width: 150px;
+}
+.saat div{
+  height: 70px;
+}
+.sag .col-md-1{
+  width:13.333333%;
+}
+.ashag .col-md-1{
+	position: relative;
+	width: 12.33333333%;
+}
+
+.adamlar{
+	width: 100%;
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
